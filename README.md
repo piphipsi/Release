@@ -1,5 +1,5 @@
 # Release
-更新日期：2020/06/19
+更新日期：2020/06/19   <a href="https://blog.piphipsi.com/Release/more/">完全版</a>
 ## 最近更新
 个人版文档1.0.1
 > 版本：1.0.1 <br/>
